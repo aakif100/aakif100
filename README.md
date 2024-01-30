@@ -59,7 +59,7 @@ Here are some ideas to get you started:
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Coding gif" />
   
  ✌️ &emsp; I ENJOY PROGRAMMING AND SHARING KNOWLEDGE <br/><br/>
  📧 &emsp; REACH ME ANYTIME : aakifmohamed100@gmail.com <br/><br/>
