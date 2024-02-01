@@ -91,7 +91,6 @@ Here are some ideas to get you started:
 [![HTML-Transitions-Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=HTML-Transitions-Tutorial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/HTML-Transitions-Tutorial)
 [![embed-club](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=embed-club&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/embed-club)
 [![Smart-Trolley-Project](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Smart-Trolley-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Smart-Trolley-Project)
-
 [![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Tic-Tac-Toe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Tic-Tac-Toe)
 
 
