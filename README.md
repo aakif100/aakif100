@@ -138,8 +138,8 @@ Here are some ideas to get you started:
 <!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
-##
+
 <h5>Your contributions are much appreciated</h5>
-## 
+
 <h3>THANK YOUUU!!</h3>
-##
+
