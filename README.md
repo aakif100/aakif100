@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <samp>
     <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAakif%2FMohamed&psig=AOvVaw1SO7bOfiQhGOUOMHYvfTvv&ust=1706708657638000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCKCVyqufhYQDFQAAAAAdAAAAABAE">「 Google Me!!! 」</a>
     <br>
-    「 I AM A COMPUTER SCIENCE STUDENT AND A DEVELOPER from <b>MANGALORE</b> 」
+    「 I AM A COMPUTER SCIENCE STUDENT AND A DEVELOPER from <b>MANGALORE INDIA </b> 」
     <br>
     <br>
   </samp>
