@@ -95,12 +95,12 @@ Here are some ideas to get you started:
 [![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Tic-Tac-Toe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Tic-Tac-Toe)
 [![grid-display-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=grid-display-tutorial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/grid-display-tutorial)
 [![client1-website](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=client1-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/client1-website)
-![client1-website](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=fierce-console-UI-UX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/fierce-console-UI-UX )
+[![fierce-console-UI-UX](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=fierce-console-UI-UX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/fierce-console-UI-UX)
 
 
 
 
-
+fierce-console-UI-UX
 
 
 
