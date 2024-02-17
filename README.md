@@ -146,5 +146,5 @@ Here are some ideas to get you started:
 
 <h5>Your contributions are much appreciated</h5>
 
-<h3>THANK YOUUU!!</h3>
+
 
