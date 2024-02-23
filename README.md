@@ -1,7 +1,8 @@
 
 
 <!--
-**aakif100/aakif100*is a ✨ _spcial_ ✨ repoitory because its README.md` (this file) appears on your GitHub profile.
+**aakif100/aakif100*is a ✨ _spcial_ ✨ repoitory because its README.md` (this fi
+e) appears on your GitHub profile.
 
 Here are some ideas to get you trte
 - 🔭 I’m currently workin on ..
