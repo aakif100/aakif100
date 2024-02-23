@@ -3,8 +3,7 @@
 <!--
 **aakif100/aakif100** is a ✨ _spcial_ ✨ repoitory because its README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you trted:
-
+Here are some ideas to get you trted
 - 🔭 I’m currently workin on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
