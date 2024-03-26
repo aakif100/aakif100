@@ -5,7 +5,7 @@
 e) appears on your GitHub profile.
 
 Here are some ideas to get you trte
-- 🔭 I’m curently workin on ..
+ 🔭 I’m curently workin on ..
 - 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m lookingfor hlp with ...
