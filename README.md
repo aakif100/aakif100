@@ -2,7 +2,7 @@
 
 <!--
 **aakif100/aakif100*is a ✨ _spcial_ ✨ repoitory because its README.md` (this fi
-e) appears on your GitHub profile.
+e) appearson your GitHub profile.
 
 Here are some ideas to get you trt
  🔭 I’m curently workinon ..
