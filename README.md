@@ -1,17 +1,4 @@
 
-
-<!-
-**aakif100/aakif100*is a ✨ _spcial_ ✨ repoitory because its README.md` (this fi
-e) appearson your GitHub profile
-Here are some ideas to get you trt
- 🔭 I’m curently workinon ..
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to llaborate on ...
-- 🤔 I’m lookingfor hlp with ..
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -
 
 <!--  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
