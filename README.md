@@ -48,7 +48,7 @@
  <img align="right" width="350" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Coding gif" />
   
  ✌️ &emsp; I ENJOY PROGRAMMING AND SHARING KNOWLEDGE <br/><br/>
- # a complete data analyst with liscensed certifications from microsoft , google  IBM and deloitte
+ /* a complete data analyst with liscensed certifications from microsoft , google  IBM and deloitte */
  😄 &emsp; I LIKE PROVIDING TUTORIAL TO LEARNING ENTHUSIASTS <br></br>
  📧 &emsp; REACH ME ANYTIME : aakifmohamed100@gmail.com <br/><br/>
  💬 &emsp; ASK ME ABOUT ANTHING [HERE](https://github.com/aakif100/aakif100/issues)
