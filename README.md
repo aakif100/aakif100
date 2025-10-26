@@ -75,15 +75,22 @@
 <br/>
 
 ## Top Repositories -
-[![iot-workshop](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=iot-workshop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/iot-workshop)
-[![HTML-Transitions-Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=HTML-Transitions-Tutorial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/HTML-Transitions-Tutorial)
-[![embed-club](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=embed-club&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/embed-club)
+[![RAG-based-AI-Teaching-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=RAG-based-AI-Teaching-Assistant&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/RAG-based-AI-Teaching-Assistant)
+
+[![MNIST-NEURAL-NETWORK](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=MNIST-NEURAL-NETWORK&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/MNIST-NEURAL-NETWORK)
+
+[![Real-Estate-Price-Visualization-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Real-Estate-Price-Visualization-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Real-Estate-Price-Visualization-WebApp)
+
 [![Smart-Trolley-Project](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Smart-Trolley-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Smart-Trolley-Project)
-[![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Tic-Tac-Toe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Tic-Tac-Toe)
-[![grid-display-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=grid-display-tutorial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/grid-display-tutorial)
+
+[![task-master](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=task-master&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/task-master)
+
+[![FlashQuiz-client-](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=gFlashQuiz-client-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/FlashQuiz-client-)
+
+<!--
 [![client1-website](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=client1-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/client1-website)
 [![fierce-console-UI-UX](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=fierce-console-UI-UX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/fierce-console-UI-UX)
-
+-->
 
 
 
