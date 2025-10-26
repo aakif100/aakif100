@@ -85,7 +85,7 @@
 
 [![task-master](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=task-master&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/task-master)
 
-[![FlashQuiz-client-](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=gFlashQuiz-client-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/FlashQuiz-client-)
+[![FlashQuiz-client-](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=FlashQuiz-client-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/FlashQuiz-client-)
 
 <!--
 [![client1-website](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=client1-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/client1-website)
